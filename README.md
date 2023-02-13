@@ -9,3 +9,6 @@ Quadruped Research Platform for Robotic Applications
 *(3D model of the quadruped is based on to the SpotMicro project)*
 
 With all the included files one can create its own 3D mapping application for automated quadruped system using only FaceID supported device. 
+
+## Future Work
+- Implementation of MuJoCo physics engine with Gymnasium to create Reinforcement Learning Model for robot to learn and walk for its own with the DDPG algorithm. 
